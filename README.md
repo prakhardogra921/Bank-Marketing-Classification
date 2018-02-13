@@ -3,6 +3,9 @@
 ## Project: Capstone Proposal and Capstone Project
 
 **Note**
+The dataset for the Capstone Project Proposal can be downloaded from the following weblink:
+
+http://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 
 The Capstone is a two-staged project. The first is the proposal component, where you can receive valuable feedback about your project idea, design, and proposed solution. This must be completed prior to your implementation and submitting for the capstone project. 
 
