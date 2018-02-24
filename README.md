@@ -7,10 +7,4 @@ The dataset for the Capstone Project Proposal can be downloaded from the followi
 
 http://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 
-The Capstone is a two-staged project. The first is the proposal component, where you can receive valuable feedback about your project idea, design, and proposed solution. This must be completed prior to your implementation and submitting for the capstone project. 
-
-You can find the [capstone proposal rubric here](https://review.udacity.com/#!/rubrics/410/view), and the [capstone project rubric here](https://review.udacity.com/#!/rubrics/108/view). Please ensure that you are following directions correctly before submitting these two stages which encapsulate your capstone.
-
-You will find an `open_projects` folder in these files. This will be where pre-curated capstone projects are available, should you choose to work on a project already partially designed for you. 
-
-Please email [machine-support@udacity.com](mailto:machine-support@udacity.com) if you have any questions.
+The Capstone is a two-staged project. The first is the proposal component where a project proposal was submitted for review. The second is the project itself that consists of the source code in Jupyter Notebooks and a detailed report.
